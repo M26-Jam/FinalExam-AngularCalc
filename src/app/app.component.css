@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    place-items: center;
+    
+  }
+  .container .calc {
+    display: grid;
+    place-items: center;
+    border-radius: 20px;
+    background:linear-gradient(gray,aqua);
+    width: 450px;
+    box-shadow: black;
+  }
